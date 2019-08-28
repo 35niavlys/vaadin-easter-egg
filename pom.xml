@@ -3,7 +3,7 @@
 
     <groupId>com.github.35niavlys</groupId>
     <artifactId>vaadin-easter-egg</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>vaadin-easter-egg</name>
     <description>Simple Vaadin component watching the user's key strokes to trigger event</description>
 
